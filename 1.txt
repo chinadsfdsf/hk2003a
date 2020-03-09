@@ -1,0 +1,7 @@
+ vim	scripts.Hugo/content/blog/2020/02/24/20071222_p63xt5alahy/*.md
+ vim	scripts.Hugo/content/blog/2020/02/24/20131203_vr2jhwcem1a/*.md
+ vim	scripts.Hugo/content/blog/2020/02/24/20160515_7nnb8pslz1o/*.md
+ vim	scripts.Hugo/content/blog/2020/02/24/20160518_c18xkgabzbs/*.md
+ vim	scripts.Hugo/content/blog/2020/02/24/20160520_byhxogicyha/*.md
+ vim	scripts.Hugo/content/blog/2020/02/24/20160724_zoqrqnxq0ja/*.md
+ vim	scripts.Hugo/content/blog/2020/02/24/20160731_uhxb9yc7dwu/*.md
