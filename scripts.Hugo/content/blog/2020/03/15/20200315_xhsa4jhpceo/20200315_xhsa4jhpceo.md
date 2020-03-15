@@ -1,0 +1,43 @@
+---
+title : "memehongkong:小紅帽  小心陌生人 〈童真系列：蕭生講童話〉 "
+date:        2020-03-15T11:58:01-07:00
+author:
+ - youtube_memehongkong
+tags:
+ - youtube
+ - memehongkong
+ - youtube_memehongkong
+ - 2020_03
+ - 2020_0315
+ - 2020_0315_11
+categories:
+ - 2020_0315
+#icon:        "fas fa-lock-open"
+#resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
+---
+
+{{< mydiv text="memehongkong:謎米新聞：news.memehk.com 謎米香港： www.memehk.com Facebook：www.facebook.com/memehkdotcom "
+>}}
+<br>
+
+
+{{< my2mp4withjpgdownload mp4="20200315_xhsa4jhpceo.mp4"
+>}}
+
+{{< my2jpgexist "xx1.jpg" >}}<br>
+{{< my2jpgexist "xx2.jpg" >}}<br>
+{{< my2jpgexist "xx3.jpg" >}}<br>
+
+
+
+{{< mydiv text="memehongkong:小紅帽  小心陌生人 〈童真系列：蕭生講童話〉 "
+>}}
+<br>
+
+{{< my2linktextonly link="https://www.youtube.com/watch?v=xHsa4JhpCEo"
+en="the origin source link" cn="原始來源網址"
+>}}
+
+
+<br>
+
