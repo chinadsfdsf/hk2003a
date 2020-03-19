@@ -1,0 +1,43 @@
+---
+title : "memehongkong:袁國勇撤文風波《大流行緣起武漢 十七年教訓盡忘》 言論自由極受損！〈蕭若元：理論蕭析〉 2020-03-19（收看完整版請前往patreon） "
+date:        2020-03-19T14:48:34-07:00
+author:
+ - youtube_memehongkong
+tags:
+ - youtube
+ - memehongkong
+ - youtube_memehongkong
+ - 2020_03
+ - 2020_0319
+ - 2020_0319_14
+categories:
+ - 2020_0319
+#icon:        "fas fa-lock-open"
+#resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
+---
+
+{{< mydiv text="memehongkong:加入我們的patreon：https://www.patreon.com/mrshiu 謎米新聞：news.memehk.com 謎米香港： www.memehk.com Facebook：www.facebook.com/memehkdotcom "
+>}}
+<br>
+
+
+{{< my2mp4withjpgdownload mp4="20200319_tfswuuqvx4y.mp4"
+>}}
+
+{{< my2jpgexist "xx1.jpg" >}}<br>
+{{< my2jpgexist "xx2.jpg" >}}<br>
+{{< my2jpgexist "xx3.jpg" >}}<br>
+
+
+
+{{< mydiv text="memehongkong:袁國勇撤文風波《大流行緣起武漢 十七年教訓盡忘》 言論自由極受損！〈蕭若元：理論蕭析〉 2020-03-19（收看完整版請前往patreon） "
+>}}
+<br>
+
+{{< my2linktextonly link="https://www.youtube.com/watch?v=TFsWUuQVX4Y"
+en="the origin source link" cn="原始來源網址"
+>}}
+
+
+<br>
+
