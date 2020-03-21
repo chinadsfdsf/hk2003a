@@ -1,0 +1,43 @@
+---
+title : "memehongkong:歷史上幾大的公衛危機 驚覺我們對中史的認識如此膚淺〈蕭若元：理論蕭析〉2020-03-21 "
+date:        2020-03-21T12:52:24-07:00
+author:
+ - youtube_memehongkong
+tags:
+ - youtube
+ - memehongkong
+ - youtube_memehongkong
+ - 2020_03
+ - 2020_0321
+ - 2020_0321_12
+categories:
+ - 2020_0321
+#icon:        "fas fa-lock-open"
+#resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
+---
+
+{{< mydiv text="memehongkong:加入我們的patreon：https://www.patreon.com/mrshiu 謎米新聞：news.memehk.com 謎米香港： www.memehk.com Facebook：www.facebook.com/memehkdotcom "
+>}}
+<br>
+
+
+{{< my2mp4withjpgdownload mp4="20200321_rm0pkdfewai.mp4"
+>}}
+
+{{< my2jpgexist "xx1.jpg" >}}<br>
+{{< my2jpgexist "xx2.jpg" >}}<br>
+{{< my2jpgexist "xx3.jpg" >}}<br>
+
+
+
+{{< mydiv text="memehongkong:歷史上幾大的公衛危機 驚覺我們對中史的認識如此膚淺〈蕭若元：理論蕭析〉2020-03-21 "
+>}}
+<br>
+
+{{< my2linktextonly link="https://www.youtube.com/watch?v=RM0pKDFEWAI"
+en="the origin source link" cn="原始來源網址"
+>}}
+
+
+<br>
+

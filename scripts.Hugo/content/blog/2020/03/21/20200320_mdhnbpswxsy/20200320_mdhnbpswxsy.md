@@ -1,0 +1,43 @@
+---
+title : "memehongkong:從乾隆是否漢人的問題 講種族觀念之可笑〈蕭若元：奇情歷史〉2020-03-20 "
+date:        2020-03-21T01:03:29-07:00
+author:
+ - youtube_memehongkong
+tags:
+ - youtube
+ - memehongkong
+ - youtube_memehongkong
+ - 2020_03
+ - 2020_0321
+ - 2020_0321_01
+categories:
+ - 2020_0321
+#icon:        "fas fa-lock-open"
+#resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
+---
+
+{{< mydiv text="memehongkong:加入我們的patreon：https://www.patreon.com/mrshiu 謎米新聞：news.memehk.com 謎米香港： www.memehk.com Facebook：www.facebook.com/memehkdotcom "
+>}}
+<br>
+
+
+{{< my2mp4withjpgdownload mp4="20200320_mdhnbpswxsy.mp4"
+>}}
+
+{{< my2jpgexist "xx1.jpg" >}}<br>
+{{< my2jpgexist "xx2.jpg" >}}<br>
+{{< my2jpgexist "xx3.jpg" >}}<br>
+
+
+
+{{< mydiv text="memehongkong:從乾隆是否漢人的問題 講種族觀念之可笑〈蕭若元：奇情歷史〉2020-03-20 "
+>}}
+<br>
+
+{{< my2linktextonly link="https://www.youtube.com/watch?v=mDHnbPSwXSY"
+en="the origin source link" cn="原始來源網址"
+>}}
+
+
+<br>
+
