@@ -10,9 +10,3 @@ tags:
 categories:
   - features
 ---
-
-{{< my2timezoneshow
-"SFO,America/Los_Angeles" 
-"HK,Asia/Hong_Kong"
->}}
-
