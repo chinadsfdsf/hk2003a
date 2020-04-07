@@ -710,7 +710,7 @@
 
 
     <div class="w3-right"><i class="far fa-calendar" aria-hidden="true"></i>&nbsp;<i>15. Mar 2020</i></div>桑梓（女匪新号）: “2015就开始研发新冠病毒，经过四年的不懈努力，终于释放成功。”<br>
-原始來源網址  V全部  播放器  目录  M2
+原始來源網址  单曲  全部  播放器  目录  M1  M2
 
   </div>
 </a>
@@ -882,8 +882,26 @@
     }
     startTime();
 })();
+    <!-- mytime12 end -->
+
+function copy2clipboard(text) {
+    if (!navigator.clipboard) {
+        fallbackCopyTextToClipboard(text);
+        return;
+    }
+    navigator.clipboard.writeText(text)
+}
+function abspath2(path2) {
+    return new URL( path2 , window.location.href ).href;
+}
+function copypath2clipboard(text3) {
+    copy2clipboard( abspath2(text3) )
+}
+function gotopath4(goto4) {
+    window.setTimeout(function(){window.top.location=abspath2(goto4)} , 1000);
+}
+
 </script>
-    
 
 
   </body>
